@@ -1,0 +1,10 @@
+{
+  "name": "hello-release-demo",
+  "version": "1.0.0",
+  "description": "一个零依赖的 Node.js 命令行问候程序。",
+  "keywords": ["nodejs", "cli", "hello-world"],
+  "homepage": "https://example.com/",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
